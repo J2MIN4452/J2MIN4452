@@ -64,10 +64,7 @@
   </div>
 </div>
 
-<div style="text-align: left;">
-  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2>
-  <div align="center">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=J2MIN4452&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&title_color=769ffe&icon_color=b48cff" />
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=J2MIN4452&layout=compact&hide_border=true&title_color=769ffe" />
-  </div>
+<div align="center">
+  <h3>GitHub Stats</h3>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=J2MIN4452&show_icons=true&hide_title=true&include_all_commits=true&count_private=true&icon_color=5a7a6a&ring_color=a3c4b0&text_color=333333&border_color=e4e2e2" />
 </div>
