@@ -63,9 +63,3 @@
     <a href="mailto:jiminee1123@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
     <a href="https://github.com/J2MIN4452"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
   </div>
-</div>
-
-<div align="center">
-  <h3>GitHub Stats</h3>
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=J2MIN4452&show_icons=true&hide_title=true&include_all_commits=true&count_private=true&icon_color=5a7a6a&ring_color=a3c4b0&text_color=333333&border_color=e4e2e2" />
-</div>
