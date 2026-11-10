@@ -1,9 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&color=0:d9b3ff,100:769ffe&height=180&text=LEE%20JI%20MIN&animation=fadeIn&fontColor=282d33&fontSize=70" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:d9b3ff,100:769ffe&height=200&section=header&text=LEE%20JI%20MIN&fontSize=70&fontColor=ffffff&fontAlignY=38&animation=fadeIn" />
 </div>
 
 <div style="text-align: left;">
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 👋 이지민이오 </h2>
+  <p>안녕하세요<br>
 </div>
 
 <div style="text-align: left;">
